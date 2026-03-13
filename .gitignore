@@ -1,1 +1,10 @@
-secrate.txt
+__pycache__/
+*.pyc
+.env
+venv/
+.vscode/
+.idea/
+*.egg-info/
+dist/
+build/
+.organize_manifest.json
